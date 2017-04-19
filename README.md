@@ -2,6 +2,7 @@
 
 Contributors:
 Rohan Sawant
+
 Karthik Manjunath
 
 Course project involving data modelling in Sales transaction database
