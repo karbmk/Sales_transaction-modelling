@@ -1,10 +1,8 @@
 # Sales_transaction-modelling
 
 Contributors:
-
-Rohan Sawant
-
-Karthik Manjunath
+1. Rohan Sawant
+2. Karthik Manjunath
 
 
 
