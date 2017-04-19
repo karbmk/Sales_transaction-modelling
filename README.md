@@ -6,6 +6,8 @@ Rohan Sawant
 
 Karthik Manjunath
 
+
+
 Course project involving data modelling in Sales transaction database
 
 Below diagram explains the Conceptual data model of the project:
